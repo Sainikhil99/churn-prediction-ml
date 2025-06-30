@@ -16,7 +16,7 @@ It uses Random Forest to analyze customer data and helps businesses take action 
 ## How to Run
 
 1. Clone the repository:  
-   `git clone https://github.com/YOUR_USERNAME/churn-prediction-ml.git`  
+   `git clone https://github.com/Sainikhil99/churn-prediction-ml.git`  
 2. Change directory:  
    `cd churn-prediction-ml`  
 3. Install dependencies:  
@@ -40,8 +40,5 @@ Evaluation metrics and reports can be found in `scripts/step6_evaluate_model.py`
 - Enhance the Streamlit app with better UI  
 - Deploy the app on cloud platforms for wider access  
 
-```bash
-git clone https://github.com/Sainikhil99/churn-prediction-ml.git
-cd churn-prediction-ml
 
 
