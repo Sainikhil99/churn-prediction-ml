@@ -30,7 +30,7 @@ It uses Random Forest to analyze customer data and helps businesses take action 
 
 A Random Forest classifier is used to predict churn.  
 The model achieves an accuracy of XX% on the test dataset.  
-Evaluation metrics and reports can be found in `scripts/step6_evaluate_model.py`.
+Evaluation metrics and reports can be found in `python scripts/Telco-Customer-Churn`.
 
 
 ## Future Work
